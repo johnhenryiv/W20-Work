@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "8812a97f943e475e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0f198acab365a63",
+        "type": "split",
+        "children": [
+          {
+            "id": "217e4236b27a66f5",
+            "type": "tabs",
+            "dimension": 62.14622641509434,
+            "children": [
+              {
+                "id": "54bcc07dc9757bbe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_jd/templates/client-folder.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "client-folder"
+                }
+              }
+            ]
+          },
+          {
+            "id": "509a8d9e6bd63c34",
+            "type": "tabs",
+            "dimension": 37.85377358490566,
+            "children": [
+              {
+                "id": "48d0aab62f018b89",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/mellow-26/Library/Mobile Documents/com~apple~CloudDocs/JD/W20 Work",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "executable": "/bin/zsh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: ✳ Clarify Claude Code file interaction methods"
+                }
+              },
+              {
+                "id": "b878414d4226610f",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6d6524e90c92401",
+    "type": "split",
+    "children": [
+      {
+        "id": "a242c6befa8c6007",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29be2898eed556de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "35fd846ccaff86f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e38d9abea924d4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "382d05993e307265",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7d28fee203e49a9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "949a6946df437597",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0fbb0086711dc503",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "terminal:Open terminal": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b878414d4226610f",
+  "lastOpenFiles": [
+    "_jd/templates/client-folder.md",
+    "10-19 Client engagements/11 Active clients/ACME Corp/Untitled.md",
+    "_jd/skills/jd-task-manager/SKILL.md",
+    "10-19 Client engagements/11 Active clients/ACME Corp",
+    "00-09 System & admin/00 System management/00.01 Inbox/Untitled.md",
+    "_jd/templates/processing-log.md",
+    "_jd/templates/inbox-item.md",
+    "_jd/templates/meeting-notes.md",
+    "_jd/templates/proposal.md",
+    "_jd/templates",
+    "claude.md",
+    "skill-observations/cross-cutting-principles.md",
+    "skill-observations/log.md",
+    "skill-observations/last-review-date.txt",
+    "skill-observations/archive",
+    "skill-observations",
+    "00-09 System & admin/00 System management/00.00 JDex.md",
+    "_jd/commands/manage-tasks.md",
+    "todo.txt",
+    "todo.md",
+    "txt.md",
+    "_jd/CLAUDE.MD.md",
+    "_jd/README.md",
+    "_jd/LICENSE.md",
+    "_jd/skills/jd-task-manager/references/jdtodo-spec.md",
+    "_jd/skills/jd-system-setup/SKILL.md",
+    "_jd/skills/jd-sub-index/SKILL.md",
+    "_jd/skills/jd-jdex-audit/SKILL.md",
+    "_jd/skills/jd-inbox-processor/references/jd-system-rules.md",
+    "_jd/skills/jd-inbox-processor/references/classification-heuristics.md",
+    "_jd/commands/next-action.md",
+    "_jd/commands/process-inbox.md",
+    "Untitled.base",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "jd-main/LICENSE",
+    "jd-main",
+    "_jd/skills/jd-task-manager/references"
+  ]
+}
