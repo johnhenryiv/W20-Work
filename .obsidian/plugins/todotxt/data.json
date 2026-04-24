@@ -1,0 +1,9 @@
+{
+  "defaultPriorityFilter": "B",
+  "defaultOrganizeBy": "project",
+  "defaultTodotxt": "default",
+  "defaultGroupBy": "+00.02",
+  "additionalExts": [],
+  "recurringTasks": false,
+  "preservePriority": true
+}

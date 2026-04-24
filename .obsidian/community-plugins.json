@@ -6,5 +6,7 @@
   "ai-templater",
   "templater-obsidian",
   "ics",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "todotxt"
 ]
