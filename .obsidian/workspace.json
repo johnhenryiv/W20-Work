@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-09 System & admin/00 System management/00.02 Tasks.md",
+                "file": "_jd/skills/jd-inbox-processor/SKILL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.02 Tasks"
+              "title": "SKILL"
             }
           }
         ]
@@ -93,6 +93,16 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
+            }
+          },
+          {
+            "id": "7a0b79defda7c054",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -184,11 +194,16 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "terminal:Open terminal": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "bases:Create new base": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "48d0aab62f018b89",
+  "active": "29be2898eed556de",
   "lastOpenFiles": [
+    "_jd/skills/jd-inbox-processor/SKILL.md",
+    "_jd/commands/process-inbox.md",
     "00-09 System & admin/00 System management/00.02 Tasks.md",
     "00-09 System & admin/Daily Ritual – Institutional Memory Guide.md",
     "00-09 System & admin/00 System management/00.00 JDex.md",
@@ -217,11 +232,9 @@
     "_jd/templates",
     "claude.md",
     "skill-observations/cross-cutting-principles.md",
-    "skill-observations/log.md",
     "skill-observations/last-review-date.txt",
     "skill-observations/archive",
     "skill-observations",
-    "_jd/commands/manage-tasks.md",
     "todo.txt",
     "Untitled.base",
     "Untitled 1.canvas",
