@@ -205,6 +205,16 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "0f63ad67ea261027",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo"
+            }
           }
         ],
         "currentTab": 3
