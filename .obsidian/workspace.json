@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "00-09 System & admin/Daily Ritual – Institutional Memory Guide.md",
+                    "file": "_jd/skills/jd-inbox-processor/references/jd-system-rules.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Daily Ritual – Institutional Memory Guide"
+                  "title": "jd-system-rules"
                 }
               }
             ]
@@ -229,8 +229,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "54bcc07dc9757bbe",
+  "active": "48d0aab62f018b89",
   "lastOpenFiles": [
+    "_jd/skills/jd-inbox-processor/references/jd-system-rules.md",
+    "00-09 System & admin/00 System management/00.01 Inbox/Dataview Queries – Inbox Dashboard.md",
+    "00-09 System & admin/Daily Ritual – Institutional Memory Guide.md",
     "00-09 System & admin/00 System management/Daily Note Template.md",
     "claude.md",
     "00-09 System & admin/00.02 Tasks.md",
@@ -254,9 +257,6 @@
     "00-09 System & admin/00 System management/00.03 Template -Processing/meeting-notes.md",
     "00-09 System & admin/00 System management/00.01 Inbox/2026-04-24.md",
     "00-09 System & admin/00 System management/templates/proposal.md",
-    "00-09 System & admin/00 System management/templates/processing-log.md",
-    "00-09 System & admin/00 System management/templates/meeting-notes.md",
-    "00-09 System & admin/00 System management/templates/inbox-item.md",
     "00-09 System & admin/00 System management/templates",
     "00-09 System & admin/templates",
     "00-09 System & admin/00 System management/00.03 Template -Processing",
