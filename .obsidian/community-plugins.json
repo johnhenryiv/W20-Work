@@ -3,12 +3,11 @@
   "rainbow-colored-sidebar",
   "colored-tags",
   "terminal",
-  "ai-templater",
   "templater-obsidian",
   "ics",
   "obsidian-git",
   "dataview",
   "todotxt",
-  "remotely-secure",
-  "remotely-save"
+  "remotely-save",
+  "default-template"
 ]
