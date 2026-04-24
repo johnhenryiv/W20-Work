@@ -10,7 +10,7 @@
           {
             "id": "217e4236b27a66f5",
             "type": "tabs",
-            "dimension": 76.41509433962264,
+            "dimension": 42.27642276422765,
             "children": [
               {
                 "id": "54bcc07dc9757bbe",
@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "claude.md",
-                    "mode": "source",
+                    "file": "_jd/README.md",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "claude"
+                  "title": "README"
                 }
               }
             ]
@@ -31,7 +31,7 @@
           {
             "id": "1e3beb1c26b148f2",
             "type": "tabs",
-            "dimension": 23.58490566037736,
+            "dimension": 57.72357723577236,
             "children": [
               {
                 "id": "48d0aab62f018b89",
@@ -213,6 +213,7 @@
   },
   "active": "48d0aab62f018b89",
   "lastOpenFiles": [
+    "_jd/README.md",
     "claude.md",
     "10-19 Client engagements/11 Active clients/ACME Corp/Untitled.md",
     "00-09 System & admin/00 System management/00.00 JDex.md",
@@ -241,7 +242,6 @@
     "00-09 System & admin/00 System management/00.03 Template -Processing",
     "00-09 System & admin/00 System management/00.01 Inbox/00.03 Template -Processing/Template – Research Link.md",
     "00-09 System & admin/00 System management/00.01 Inbox/00.03 Template -Processing/Template – Meeting Notes.md",
-    "00-09 System & admin/00 System management/00.01 Inbox/00.03 Template -Processing/Template – Invoice Received.md",
     "00-09 System & admin/00 System management/00.01 Inbox/00.03 Template -Processing",
     "00-09 System & admin/00 System management/00.03 Template",
     "00-09 System & admin/00 System management/untitled folder",
