@@ -56,7 +56,7 @@ sort by due asc
 
 ## Today's Capture
 
-Use these templates to structure new captures — YAML auto-populates with creation date and JD location.
+Use these 2 templates to structure new captures — YAML auto-populates with creation date and JD location.
 
 ### New Proposal
 - Template: [[Template – Client Proposal]]

@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "claude.md",
-                    "mode": "preview",
+                    "file": "00-09 System & admin/Daily Ritual – Institutional Memory Guide.md",
+                    "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "claude"
+                  "title": "Daily Ritual – Institutional Memory Guide"
                 }
               }
             ]
@@ -231,6 +231,8 @@
   },
   "active": "54bcc07dc9757bbe",
   "lastOpenFiles": [
+    "00-09 System & admin/00 System management/Daily Note Template.md",
+    "claude.md",
     "00-09 System & admin/00.02 Tasks.md",
     "00-09 System & admin/00 System management/00.00 JDex.md",
     "_jd/skills/jd-jdex-audit/SKILL.md",
@@ -242,7 +244,6 @@
     "00-09 System & admin/00 System management/00.03 Template -Processing/inbox-item.md",
     "00-09 System & admin/00 System management/00.03 Template -Processing/client-folder.md",
     "_jd/README.md",
-    "claude.md",
     "10-19 Client engagements/11 Active clients/ACME Corp/Untitled.md",
     "00-09 System & admin/00 System management/00.03 Template -Processing/Template – Research Link.md",
     "00-09 System & admin/00 System management/00.03 Template -Processing/Template – Meeting Notes.md",
@@ -256,7 +257,6 @@
     "00-09 System & admin/00 System management/templates/processing-log.md",
     "00-09 System & admin/00 System management/templates/meeting-notes.md",
     "00-09 System & admin/00 System management/templates/inbox-item.md",
-    "00-09 System & admin/00 System management/templates/client-folder.md",
     "00-09 System & admin/00 System management/templates",
     "00-09 System & admin/templates",
     "00-09 System & admin/00 System management/00.03 Template -Processing",
