@@ -16,10 +16,14 @@
                 "id": "54bcc07dc9757bbe",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "claude.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "claude"
                 }
               }
             ]
@@ -209,6 +213,7 @@
   },
   "active": "54bcc07dc9757bbe",
   "lastOpenFiles": [
+    "10-19 Client engagements/11 Active clients/ACME Corp/Untitled.md",
     "00-09 System & admin/00 System management/00.00 JDex.md",
     "00-09 System & admin/00 System management/00.03 Template -Processing/Template – Research Link.md",
     "00-09 System & admin/00 System management/00.03 Template -Processing/Template – Meeting Notes.md",
@@ -240,7 +245,6 @@
     "00-09 System & admin/00 System management/00.01 Inbox/00.03 Template -Processing",
     "00-09 System & admin/00 System management/00.03 Template",
     "00-09 System & admin/00 System management/untitled folder",
-    "00-09 System & admin/00 System management/00.01 Inbox/Untitled.md",
     "scripts/manage-tasks.js",
     "scripts/helpers.js",
     "scripts/package.json",
