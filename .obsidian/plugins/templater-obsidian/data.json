@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "00-09 System & admin/00 System management/00.03 Template -Processing",
+  "templates_folder": "00-09 System & admin/00 System management/00.03 Templates",
   "templates_pairs": [
     [
       "",
@@ -12,8 +12,13 @@
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": true,
-  "folder_templates": [],
+  "enable_folder_templates": false,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
   "enable_file_templates": false,
   "file_templates": [
     {
