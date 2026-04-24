@@ -1,0 +1,20 @@
+{
+  "name": "w20-scripts",
+  "version": "1.0.0",
+  "description": "W20 Work automation scripts",
+  "main": "index.js",
+  "scripts": {
+    "inbox": "node process-inbox.js",
+    "tasks": "node manage-tasks.js",
+    "audit": "node jdex-audit.js",
+    "init": "node init-system.js",
+    "digest": "node weekly-digest.js"
+  },
+  "keywords": ["w20", "jd", "automation", "inbox", "tasks"],
+  "author": "Tony C. Anderson",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {}
+}
