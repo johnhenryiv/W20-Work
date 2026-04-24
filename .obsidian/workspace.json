@@ -72,7 +72,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: ✳ Build automation templates and plugins for vault"
+                  "title": "Terminal: ✳ Claude Code"
                 }
               }
             ]
@@ -211,8 +211,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "54bcc07dc9757bbe",
+  "active": "48d0aab62f018b89",
   "lastOpenFiles": [
+    "claude.md",
     "10-19 Client engagements/11 Active clients/ACME Corp/Untitled.md",
     "00-09 System & admin/00 System management/00.00 JDex.md",
     "00-09 System & admin/00 System management/00.03 Template -Processing/Template – Research Link.md",
@@ -241,7 +242,6 @@
     "00-09 System & admin/00 System management/00.01 Inbox/00.03 Template -Processing/Template – Research Link.md",
     "00-09 System & admin/00 System management/00.01 Inbox/00.03 Template -Processing/Template – Meeting Notes.md",
     "00-09 System & admin/00 System management/00.01 Inbox/00.03 Template -Processing/Template – Invoice Received.md",
-    "00-09 System & admin/00 System management/00.01 Inbox/00.03 Template -Processing/Template – Client Proposal.md",
     "00-09 System & admin/00 System management/00.01 Inbox/00.03 Template -Processing",
     "00-09 System & admin/00 System management/00.03 Template",
     "00-09 System & admin/00 System management/untitled folder",
