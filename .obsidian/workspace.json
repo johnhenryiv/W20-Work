@@ -10,7 +10,7 @@
           {
             "id": "217e4236b27a66f5",
             "type": "tabs",
-            "dimension": 36.72086720867209,
+            "dimension": 71.13821138211382,
             "children": [
               {
                 "id": "54bcc07dc9757bbe",
@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "00-09 System & admin/00 System management/00.01 Inbox/MOC - Inbox (Reference).md",
+                    "file": "10-19 Client engagements/11 Active clients/11.01+EXW Eric Weldon/11.01+EXW Overview.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "MOC - Inbox (Reference)"
+                  "title": "11.01+EXW Overview"
                 }
               }
             ]
@@ -31,7 +31,7 @@
           {
             "id": "1e3beb1c26b148f2",
             "type": "tabs",
-            "dimension": 63.27913279132791,
+            "dimension": 28.86178861788618,
             "children": [
               {
                 "id": "48d0aab62f018b89",
@@ -131,13 +131,11 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "35fd846ccaff86f2",
@@ -240,8 +238,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "48d0aab62f018b89",
+  "active": "54bcc07dc9757bbe",
   "lastOpenFiles": [
+    "00-09 System & admin/00 System management/00.01 Inbox/MOC - Inbox (Reference).md",
     "10-19 Client engagements/11 Active clients/11.00 +Index.md",
     "10-19 Client engagements/11 Active clients/11.01+EXW Eric Weldon/11.01+EXW Overview.md",
     "10-19 Client engagements/11 Active clients/11.01+EXW Eric Weldon",
@@ -259,7 +258,6 @@
     "00-09 System & admin/00 System management/00.03 Templates/Template – Client Proposal.md",
     "00-09 System & admin/00 System management/00.03 Templates",
     "00-09 System & admin/00 System management/00.03 Template -Processing/Template – Client Proposal.md",
-    "00-09 System & admin/00 System management/00.01 Inbox/MOC - Inbox (Reference).md",
     "_jd/skills/jd-inbox-processor/references/jd-system-rules.md",
     "00-09 System & admin/00 System management/00.01 Inbox/Dataview Queries – Inbox Dashboard.md",
     "00-09 System & admin/Daily Ritual – Institutional Memory Guide.md",
