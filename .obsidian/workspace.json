@@ -16,14 +16,10 @@
                 "id": "54bcc07dc9757bbe",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "10-19 Client engagements/11 Active clients/11.00 +Index.md",
-                    "mode": "source",
-                    "source": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "11.00 +Index"
+                  "title": "New tab"
                 }
               }
             ]
@@ -72,7 +68,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: ⠐ Sort inbox messages"
+                  "title": "Terminal: ⠂ Sort inbox messages"
                 }
               }
             ]
@@ -240,6 +236,13 @@
   },
   "active": "48d0aab62f018b89",
   "lastOpenFiles": [
+    "00-09 System & admin/00 System management/00.01 Inbox/Untitled.md",
+    "00-09 System & admin/00 System management/00.01 Inbox/2026-04-24.md",
+    "10-19 Client engagements/11 Active clients/11.02+NNN/50NNN-INFRASTRUCTURE-SETUP.md",
+    "10-19 Client engagements/11 Active clients/11.02+NNN/50NNN-GOOGLE-KEEP-SETUP.md",
+    "10-19 Client engagements/11 Active clients/11.02+NNN/50NNN-ERIC-ONBOARDING.md",
+    "10-19 Client engagements/11 Active clients/11.02+NNN",
+    "00-09 System & admin/00-System-Rationale-50NNN.md",
     "00-09 System & admin/00 System management/00.01 Inbox/50NNN-INFRASTRUCTURE-SETUP.md",
     "00-09 System & admin/00 System management/00.01 Inbox/50NNN-GOOGLE-KEEP-SETUP.md",
     "00-09 System & admin/00 System management/00.01 Inbox/50NNN-ERIC-ONBOARDING.md",
@@ -265,17 +268,10 @@
     "00-09 System & admin/00 System management/00.03 Templates/Template – Meeting Notes.md",
     "00-09 System & admin/00 System management/00.03 Templates/Template – Client Proposal.md",
     "00-09 System & admin/00 System management/00.03 Templates",
-    "00-09 System & admin/00 System management/00.03 Template -Processing/Template – Client Proposal.md",
-    "_jd/skills/jd-inbox-processor/references/jd-system-rules.md",
-    "00-09 System & admin/00 System management/00.01 Inbox/Dataview Queries – Inbox Dashboard.md",
-    "00-09 System & admin/Daily Ritual – Institutional Memory Guide.md",
-    "00-09 System & admin/00 System management/Daily Note Template.md",
-    "claude.md",
     "00-09 System & admin/00 System management/templates",
     "00-09 System & admin/templates",
     "00-09 System & admin/00 System management/00.03 Template -Processing",
     "00-09 System & admin/00 System management/00.01 Inbox/00.03 Template -Processing",
-    "00-09 System & admin/00 System management/00.03 Template",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
