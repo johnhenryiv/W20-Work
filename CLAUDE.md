@@ -23,8 +23,9 @@ The W20 system is divided into five areas, each with supporting categories:
 - **00.00** JDex — the master index (single source of truth for all IDs)
 - **00.01** Inbox — unprocessed captures and items awaiting classification
 - **00.02** Tasks — active work items in jdtodo.txt format
-- **00.03** Processing log — history of files processed and actions taken
-- **00.04** Needs review — items flagged for human review during classification
+- **00.03** Templates — reusable document templates (proposals, invoices, meeting notes, etc.)
+- **00.04** Processing log — audit trail of files processed and actions taken
+- **00.05** Needs review — items flagged for human review during classification
 
 ## Common Workflows
 
@@ -67,8 +68,9 @@ Manages `+SUB` indexes for categories (e.g., `+ACME`, `+PROPOSAL-Q2`). Assigns n
 | `00-09/00 System management/00.00 JDex.md` | Master index — single source of truth |
 | `00-09/00 System management/00.01 Inbox/` | Unprocessed items awaiting classification |
 | `00-09/00 System management/00.02 Tasks.md` | Active and overdue tasks in jdtodo.txt format |
-| `00-09/00 System management/00.03 Processing log.md` | Audit trail: what was processed, when, where it went |
-| `00-09/00 System management/00.04 Needs review/` | Human review queue (classification conflicts, ambiguous items) |
+| `00-09/00 System management/00.03 Templates/` | Reusable templates (client proposals, invoices, meeting notes, research links, etc.) |
+| `00-09/00 System management/00.04 Processing log.md` | Audit trail: what was processed, when, where it went |
+| `00-09/00 System management/00.05 Needs review/` | Human review queue (classification conflicts, ambiguous items) |
 
 ## Task Format (jdtodo.txt)
 

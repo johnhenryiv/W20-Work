@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "10-19 Client engagements/11 Active clients/11.01+EXW Eric Weldon/11.01+EXW Overview.md",
+                    "file": "10-19 Client engagements/11 Active clients/11.00 +Index.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "11.01+EXW Overview"
+                  "title": "11.00 +Index"
                 }
               }
             ]
@@ -238,14 +238,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "54bcc07dc9757bbe",
+  "active": "29be2898eed556de",
   "lastOpenFiles": [
+    "10-19 Client engagements/11 Active clients/11.00 +Index.md",
+    "10-19 Client engagements/11 Active clients/11.01+EXW Eric Weldon/11.01+EXW Overview.md",
     "00-09 System & admin/00 System management/00.01 Inbox/50-SINGLE-INFRASTRUCTURE-SETUP.md",
     "00-09 System & admin/00 System management/00.01 Inbox/50-SINGLE-GOOGLE-KEEP-SETUP.md",
     "00-09 System & admin/00 System management/00.01 Inbox/50-SINGLE-ERIC-ONBOARDING.md",
     "00-09 System & admin/00 System management/00.01 Inbox/MOC - Inbox (Reference).md",
-    "10-19 Client engagements/11 Active clients/11.00 +Index.md",
-    "10-19 Client engagements/11 Active clients/11.01+EXW Eric Weldon/11.01+EXW Overview.md",
     "10-19 Client engagements/11 Active clients/11.01+EXW Eric Weldon",
     "CLAUDE.md",
     "00-09 System & admin/00 System management/00.05 Needs review",
