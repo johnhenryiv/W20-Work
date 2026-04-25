@@ -10,7 +10,7 @@
           {
             "id": "217e4236b27a66f5",
             "type": "tabs",
-            "dimension": 71.13821138211382,
+            "dimension": 52.4390243902439,
             "children": [
               {
                 "id": "54bcc07dc9757bbe",
@@ -31,7 +31,7 @@
           {
             "id": "1e3beb1c26b148f2",
             "type": "tabs",
-            "dimension": 28.86178861788618,
+            "dimension": 47.5609756097561,
             "children": [
               {
                 "id": "48d0aab62f018b89",
@@ -72,7 +72,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: ✳ Sort inbox messages"
+                  "title": "Terminal: ⠐ Sort inbox messages"
                 }
               }
             ]
@@ -238,7 +238,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "29be2898eed556de",
+  "active": "48d0aab62f018b89",
   "lastOpenFiles": [
     "10-19 Client engagements/11 Active clients/11.00 +Index.md",
     "10-19 Client engagements/11 Active clients/11.01+EXW Eric Weldon/11.01+EXW Overview.md",
