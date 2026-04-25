@@ -10,7 +10,7 @@
           {
             "id": "217e4236b27a66f5",
             "type": "tabs",
-            "dimension": 52.4390243902439,
+            "dimension": 27.100271002710024,
             "children": [
               {
                 "id": "54bcc07dc9757bbe",
@@ -27,7 +27,7 @@
           {
             "id": "1e3beb1c26b148f2",
             "type": "tabs",
-            "dimension": 47.5609756097561,
+            "dimension": 72.89972899728997,
             "children": [
               {
                 "id": "48d0aab62f018b89",
@@ -68,7 +68,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "Terminal: ✳ Sort inbox messages"
+                  "title": "Terminal: ⠐ Sort inbox messages"
                 }
               }
             ]
