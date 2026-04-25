@@ -1,11 +1,11 @@
-# 50 & Single Launch — Google Keep Setup
+# 50NNN Launch — Google Keep Setup
 
 ## Quick Setup (5 minutes)
 
 ### Step 1: Create a Shared Notebook
 1. Go to **keep.google.com**
 2. Click **Create new note** → select **New notebook**
-3. Name it: `50 & Single Launch`
+3. Name it: `50NNN Launch`
 4. Click the three dots → **Share**
 5. Add Eric's email — give him **Editor** access
 6. Click **Share**
@@ -20,7 +20,7 @@ Use **labels** (like folders) to keep things organized. Create these labels:
 
 - **📋 MASTER STATUS** — Project overview, deadlines, launch timeline
 - **🎙️ PODCAST** — Episode ideas, guest host names, topics
-- **📹 SEGMENTS** — "50 & Single" scripted ideas, quick-story themes
+- **📹 SEGMENTS** — "50NNN" scripted ideas, quick-story themes
 - **🤝 PARTNERSHIPS** — OR9, SET app, 24W notes
 - **👥 CONTACTS** — Guest hosts, talent, collaborators
 - **💡 IDEAS** — Brainstorms, funny moments, inspiration
@@ -33,7 +33,7 @@ Use **labels** (like folders) to keep things organized. Create these labels:
 
 ### 📋 MASTER STATUS
 ```
-PROJECT: 50 & Single Launch
+PROJECT: 50NNN Launch
 
 LAUNCH TIMELINE:
 - Soft Launch: Last week of May (Memorial Day weekend)
@@ -45,7 +45,7 @@ Sex-positive, unapologetically authentic.
 
 CORE FORMATS:
 1. Podcast (guest hosts, rotating topics)
-2. "50 & Single" scripted/reality segments
+2. "50NNN" scripted/reality segments
 3. Quick-story segments (wild, funny moments for levity)
 
 NEXT DEADLINES:

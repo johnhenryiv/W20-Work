@@ -1,4 +1,4 @@
-# 50 & Single Launch — Eric's Quick Start Guide
+# 50NNN Launch — Eric's Quick Start Guide
 
 Welcome! You're collaborating on an exciting project launching this summer. Here's everything you need to access and get started.
 
@@ -13,7 +13,7 @@ Welcome! You're collaborating on an exciting project launching this summer. Here
 - Sign up with your email (you'll get an invite from the project lead)
 - Set a strong master password
 - Enable two-factor authentication (2FA)
-- Accept the organization invite: `50-Single-Launch`
+- Accept the organization invite: `50NNN-Launch`
 
 **What you'll find:**
 - Synology login credentials
@@ -50,7 +50,7 @@ Welcome! You're collaborating on an exciting project launching this summer. Here
 ### 3. Google Drive (Planning & Documentation)
 **What:** All project planning, outlines, guest info, and timelines  
 **How to access:**
-- You'll get a shared link to `50 & Single Launch` folder
+- You'll get a shared link to `50NNN Launch` folder
 - Open it and click **"Add to My Drive"**
 - You'll have Editor access — create, edit, and organize as needed
 
@@ -66,7 +66,7 @@ Welcome! You're collaborating on an exciting project launching this summer. Here
 ### 4. Google Keep (Shared Notes)
 **What:** Quick brainstorming, daily notes, ideas  
 **How to access:**
-- Shared notebook: `50-Single-Launch-Notes`
+- Shared notebook: `50NNN-Launch-Notes`
 - Use for quick captures before they go into formal docs
 - Jot down ideas, reminders, funny moments
 
@@ -85,7 +85,7 @@ Welcome! You're collaborating on an exciting project launching this summer. Here
    - Sync the `50-single-project` folder locally
 
 3. **Set up Google Drive**
-   - Add `50 & Single Launch` folder to your Drive
+   - Add `50NNN Launch` folder to your Drive
    - Open and skim Master Production Doc & Guest Host Database
    - Familiarize yourself with folder structure
 

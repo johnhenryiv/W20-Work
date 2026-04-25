@@ -1,4 +1,4 @@
-# 50 & Single Launch — Infrastructure Setup Guide
+# 50NNN Launch — Infrastructure Setup Guide
 
 ## Overview
 
@@ -20,7 +20,7 @@ This document walks through setting up the shared infrastructure for the project
 2. Create new user:
    - **Username:** `eric`
    - **Password:** [Generate strong temporary password]
-   - **Description:** "Eric — 50 & Single Production Collaborator"
+   - **Description:** "Eric — 50NNN Production Collaborator"
    - **Assign Groups:** Create a new group called `50-single-team` and add Eric to it
 
 **Grant Eric Permissions:**
@@ -74,14 +74,14 @@ Synology Access Details:
 
 ### Step 2: Create Organization (Optional but Recommended)
 1. In Bitwarden, go to **Settings** → **Organizations**
-2. Create organization: `50-Single-Launch`
+2. Create organization: `50NNN-Launch`
 3. Invite Eric to organization:
    - Enter his email
    - Set role: **Manager** (allows him to manage shared items)
    - Send invitation
 
 ### Step 3: Create Shared Vault Folder
-1. In Bitwarden, create folder: `50-Single-Shared`
+1. In Bitwarden, create folder: `50NNN-Shared`
 2. Add credentials you want to share with Eric:
    - **Synology credentials** (username, password, IP)
    - **Google Drive/Workspace shared passwords** (if applicable)
@@ -92,7 +92,7 @@ Synology Access Details:
 ### Step 4: Eric's Bitwarden Setup
 1. Eric creates his Bitwarden account at **bitwarden.com**
 2. Accept your organization invitation
-3. Access shared folder: `50-Single-Shared`
+3. Access shared folder: `50NNN-Shared`
 4. Enable 2FA on his account
 
 ### Bitwarden Best Practices
@@ -107,10 +107,10 @@ Synology Access Details:
 
 ### Step 1: Create Google Drive Folder Structure
 
-**Main folder:** `50 & Single Launch` (shared with Eric — give him Editor access)
+**Main folder:** `50NNN Launch` (shared with Eric — give him Editor access)
 
 ```
-50 & Single Launch/
+50NNN Launch/
 ├── 01-PODCAST
 │   ├── Episode Outlines
 │   ├── Guest Host List
@@ -120,7 +120,7 @@ Synology Access Details:
 │   └── Episode Metadata (Titles, Descriptions, Show Notes)
 │
 ├── 02-SCRIPTED-SEGMENTS
-│   ├── "50 & Single" Segment Ideas
+│   ├── "50NNN" Segment Ideas
 │   ├── Scripts (Drafts & Final)
 │   ├── Casting & Talent
 │   ├── Video Files
@@ -172,7 +172,7 @@ Synology Access Details:
 
 ### Step 2: Create Shared Google Docs
 
-**Document 1: "50 & Single Launch — Master Production Doc"**
+**Document 1: "50NNN Launch — Master Production Doc"**
 - Overview of project
 - Core ideas & tone
 - Launch timeline
@@ -200,7 +200,7 @@ Synology Access Details:
 
 ### Step 3: Create Google Keep Notes (Shared)
 
-Create a shared Google Keep notebook: `50-Single-Launch-Notes`
+Create a shared Google Keep notebook: `50NNN-Launch-Notes`
 
 Use for:
 - Quick ideas (before they go into proper docs)
@@ -214,7 +214,7 @@ Use for:
 ## Phase 4: Sharing & Permissions
 
 ### Google Drive Sharing
-1. Right-click `50 & Single Launch` folder
+1. Right-click `50NNN Launch` folder
 2. **Share** → Enter Eric's email
 3. Set permission: **Editor** (so he can create, edit, and organize)
 4. Do **not** notify (you'll tell him directly)
@@ -254,7 +254,7 @@ Use for:
 - [ ] Synology: Create `eric` user & shared folder structure
 - [ ] Synology: Send Eric login credentials (via Bitwarden or in-person)
 - [ ] Bitwarden: Both create accounts, enable 2FA
-- [ ] Bitwarden: Create shared `50-Single-Shared` folder with Synology & podcast hosting creds
+- [ ] Bitwarden: Create shared `50NNN-Shared` folder with Synology & podcast hosting creds
 - [ ] Google Drive: Create main folder & subfolder structure
 - [ ] Google Drive: Create Master Production Doc, Guest Database, Ideas Log
 - [ ] Google Keep: Create shared notebook for notes/ideas
@@ -268,10 +268,10 @@ Use for:
 
 | Asset | Location | Who Can Access |
 |-------|----------|-----------------|
-| Passwords & Credentials | Bitwarden (50-Single-Shared) | You & Eric |
+| Passwords & Credentials | Bitwarden (50NNN-Shared) | You & Eric |
 | Project Files & Media | Synology (50-single-project) | You & Eric |
-| Planning & Docs | Google Drive (50 & Single Launch) | You & Eric (Editor) |
-| Quick Notes | Google Keep (50-Single-Launch-Notes) | You & Eric |
+| Planning & Docs | Google Drive (50NNN Launch) | You & Eric (Editor) |
+| Quick Notes | Google Keep (50NNN-Launch-Notes) | You & Eric |
 | Ongoing Calendar & Tasks | Google Drive (05-PRODUCTION-CALENDAR) | You & Eric |
 
 ---
