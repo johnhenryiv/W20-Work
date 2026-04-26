@@ -10,7 +10,7 @@
           {
             "id": "217e4236b27a66f5",
             "type": "tabs",
-            "dimension": 38.866930171278,
+            "dimension": 32.41106719367589,
             "children": [
               {
                 "id": "54bcc07dc9757bbe",
@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "README.md",
+                    "file": "Clippings/skill-standardization by supercent-ioskills-template 1.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "README"
+                  "title": "skill-standardization by supercent-ioskills-template 1"
                 }
               }
             ]
@@ -31,7 +31,7 @@
           {
             "id": "1e3beb1c26b148f2",
             "type": "tabs",
-            "dimension": 61.133069828722,
+            "dimension": 67.58893280632411,
             "children": [
               {
                 "id": "48d0aab62f018b89",
@@ -238,6 +238,8 @@
   },
   "active": "54bcc07dc9757bbe",
   "lastOpenFiles": [
+    "Clippings/skill-standardization by supercent-ioskills-template 1.md",
+    "README.md",
     "00-09 System & admin/00 System management/00.00 JDex.md",
     "Clippings/skill-standardization by supercent-ioskills-template.md",
     "skill-observations/log.md",
@@ -270,8 +272,6 @@
     "00-09 System & admin/00 System management/00.01 Inbox/MOC - Inbox (Reference).md",
     "10-19 Client engagements/11 Active clients/11.01+EXW Eric Weldon",
     "00-09 System & admin/00 System management/00.05 Needs review",
-    "00-09 System & admin/00 System management/00.04 Processing log.md",
-    "00-09 System & admin/00 System management/00.03 Templates/proposal.md",
     "00-09 System & admin/00 System management/00.03 Templates",
     "00-09 System & admin/00 System management/templates",
     "Untitled 1.canvas",
