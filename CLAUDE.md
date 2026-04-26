@@ -136,13 +136,13 @@ The `scripts/` directory contains Node.js utilities for W20 management (requires
 
 ### Available Scripts
 
-| Command | Script | Purpose |
-|---------|--------|---------|
-| `npm run tasks` | `manage-tasks.js` | Add, complete, list, or show overdue tasks |
-| `npm run inbox` | `process-inbox.js` | Process items in `00.01 Inbox` — classify and file |
-| `npm run audit` | `jdex-audit.js` | Compare JDex against actual folder structure |
-| `npm run init` | `init-system.js` | Initialize a new W20 system (folder structure, JDex) |
-| `npm run digest` | `weekly-digest.js` | Generate weekly summary of activity |
+| Command          | Script             | Purpose                                              |
+| ---------------- | ------------------ | ---------------------------------------------------- |
+| `npm run tasks`  | `manage-tasks.js`  | Add, complete, list, or show overdue tasks           |
+| `npm run inbox`  | `process-inbox.js` | Process items in `00.01 Inbox` — classify and file   |
+| `npm run audit`  | `jdex-audit.js`    | Compare JDex against actual folder structure         |
+| `npm run init`   | `init-system.js`   | Initialize a new W20 system (folder structure, JDex) |
+| `npm run digest` | `weekly-digest.js` | Generate weekly summary of activity                  |
 
 ### Task Management
 
