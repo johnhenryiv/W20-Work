@@ -130,10 +130,65 @@ The JD plugin includes skills that activate on context:
 | jd-jdex-audit | "audit my JDex," "check my system," "sync JDex," "verify my system" |
 | jd-sub-index | "update sub index," "next sub number," "add a new project" |
 
+## Scripts & Automation
+
+The `scripts/` directory contains Node.js utilities for W20 management (requires Node.js 14+). Run them with `npm run [command]` or `node [filename]` directly.
+
+### Available Scripts
+
+| Command | Script | Purpose |
+|---------|--------|---------|
+| `npm run tasks` | `manage-tasks.js` | Add, complete, list, or show overdue tasks |
+| `npm run inbox` | `process-inbox.js` | Process items in `00.01 Inbox` — classify and file |
+| `npm run audit` | `jdex-audit.js` | Compare JDex against actual folder structure |
+| `npm run init` | `init-system.js` | Initialize a new W20 system (folder structure, JDex) |
+| `npm run digest` | `weekly-digest.js` | Generate weekly summary of activity |
+
+### Task Management
+
+```bash
+# List all active tasks
+npm run tasks -- list
+
+# Add a new task
+npm run tasks -- add "Task description" --priority=A --due=2026-04-30 --location=W20.11.01
+
+# Mark a task complete
+npm run tasks -- complete "Task description"
+
+# Show overdue tasks
+npm run tasks -- overdue
+
+# Filter by priority
+npm run tasks -- list --priority=A
+```
+
+Task format is `jdtodo.txt` compatible:
+```
+(A) 2026-04-24 Task description +W20.11.01 @context due:2026-04-30
+```
+
+### Inbox Processing
+
+```bash
+npm run inbox
+```
+
+Processes items in `00-09/00 System management/00.01 Inbox/`, classifies them to their JD location, extracts actionable tasks, and logs the action in the processing log.
+
+### JDex Maintenance
+
+```bash
+npm run audit
+```
+
+Compares `00.00 JDex` against the actual folder structure, flags mismatches, and suggests updates when folders exist but aren't documented.
+
 ## Notes for Claude Code Sessions
 
 - **No build step.** The W20 system is pure organization — no code to compile, deploy, or test.
-- **Direct filesystem operations.** All work happens on the local filesystem; the plugin manages folder structures and file movements.
+- **Direct filesystem operations.** All work happens on the local filesystem; scripts manage folder structures and file movements.
 - **JDex is canonical.** Always treat `00.00 JDex.md` as the source of truth. If a folder exists but isn't documented, it's out of sync.
-- **Batch processing.** When processing a full inbox, let the plugin run to completion before manual intervention.
-- **Task archival.** Completed tasks are marked with `x` prefix and remain in the file for audit; they're not deleted.
+- **Batch processing.** When processing a full inbox, let the script run to completion before manual intervention.
+- **Task archival.** Completed tasks are marked with `x` prefix and remain in `00.02 Tasks.md` for audit; they're not deleted.
+- **Shared utilities.** Helper functions (`parseTaskLine`, `formatTaskLine`, `parseYAML`, file I/O) are in `helpers.js` — use these when extending or creating new scripts.
