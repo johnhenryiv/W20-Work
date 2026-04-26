@@ -10,7 +10,10 @@
     "highTextContrast": true
   },
   "knownTags": {
-    "clippings": 1
+    "clippings": 1,
+    "next-steps": 2,
+    "parking-lot": 3,
+    "w20": 4
   },
   "tagColors": {},
   "_version": 4
