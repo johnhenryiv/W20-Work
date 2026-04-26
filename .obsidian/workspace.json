@@ -10,7 +10,7 @@
           {
             "id": "217e4236b27a66f5",
             "type": "tabs",
-            "dimension": 68.6429512516469,
+            "dimension": 60.60606060606061,
             "children": [
               {
                 "id": "54bcc07dc9757bbe",
@@ -31,7 +31,7 @@
           {
             "id": "1e3beb1c26b148f2",
             "type": "tabs",
-            "dimension": 31.357048748353094,
+            "dimension": 39.39393939393939,
             "children": [
               {
                 "id": "48d0aab62f018b89",
@@ -238,10 +238,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "54bcc07dc9757bbe",
+  "active": "48d0aab62f018b89",
   "lastOpenFiles": [
-    "00-09 System & admin/Daily Ritual – Institutional Memory Guide.md",
     "00-09 System & admin/00-System-Rationale-50NNN.md",
+    "00-09 System & admin/Daily Ritual – Institutional Memory Guide.md",
     "00-09 System & admin/00 System management/Daily Note Template.md",
     "30-39 Business finance & contracts/32 Contracts & agreements/1Password Recovery Code 2.txt",
     "30-39 Business finance & contracts/32 Contracts & agreements/1Password Recovery Code.txt",
